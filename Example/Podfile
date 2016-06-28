@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSManagedObject-Clonable_Example' do
+  pod 'NSManagedObject-Clonable', :path => '../'
+
+  target 'NSManagedObject-Clonable_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
