@@ -1,0 +1,6 @@
+framework module NSManagedObject_Clonable {
+  umbrella header "NSManagedObject-Clonable-umbrella.h"
+
+  export *
+  module * { export * }
+}

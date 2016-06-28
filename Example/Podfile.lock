@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.1):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.1)
+  - FBSnapshotTestCase/Core (2.1.1)
+  - FBSnapshotTestCase/SwiftSupport (2.1.1):
+    - FBSnapshotTestCase/Core
+  - NSManagedObject-Clonable (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - NSManagedObject-Clonable (from `../`)
+
+EXTERNAL SOURCES:
+  NSManagedObject-Clonable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 432afd8d059ccef7f207225894840a03fbcf7474
+  NSManagedObject-Clonable: a3f3b508e28df369f2b702fa31771de1256f4afd
+
+PODFILE CHECKSUM: 57e8c5431a6a9f66ed19e835b3e3ec57c0dee93a
+
+COCOAPODS: 1.0.1

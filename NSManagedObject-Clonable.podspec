@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/NSManagedObject-Clonable'
+  s.homepage         = 'https://github.com/nhnam/NSManagedObject-Clonable'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ナム Nam Nguyen' => 'nhnam.develop@gmail.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/NSManagedObject-Clonable.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/nhnam/NSManagedObject-Clonable.git', :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/h_nam7'
 
   s.ios.deployment_target = '8.0'
 
