@@ -1,0 +1,2 @@
+# NSManagedObject-Clonable
+NSManagedObject-Clonable
